@@ -1,0 +1,8 @@
+Username	UserID	IC	PhoneNo	DOB	Department	Email	Password
+@dmin666	@dminPa$$word	//admin ID and Password
+James	J1467	030513011037	0177911866	13/05/2003	IT Department	james@gmail.com	333
+GENE	G6434	030205043791	0127137178	05/02/2003	IT Department	gene@yahoo.com	123
+KIPET	K6278	011221037048	0137898221	21/12/2001	IT Department	kipet@gmail.COM	123
+Daniel	D9860	000228032317	0179829009	28/02/2000	IT Department	daniel@mmu.edu.my	123
+Wen Le	WL8693	030513011037	0177911866	13/05/2003	IT Department	wenle@gmail.com	1234
+weddw	W5758	123456789012	1234567890	22/22/2222	IT Department	sww@skjw.com	12345678

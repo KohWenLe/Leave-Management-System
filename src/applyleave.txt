@@ -1,0 +1,10 @@
+L004	G6434	GENE	Study leave	Examination	30/01/2024	31/01/2024	Rejected
+L005	G6434	GENE	Sick leave	COVID	04/12/2022	06/12/2022	Pending
+L006	G6434	GENE	Annual leave	Vacation	04/05/2024	07/05/2024	Pending
+L007	K6278	KIPET	Maternity leave	got baby	30/01/2024	01/03/2024	Approved
+L008	K6278	KIPET	Annual leave	Take kid Europe trip	02/06/2026	09/06/2026	Rejected
+L009	WL8693	Wen Le	Sick leave	COVID-19	14/02/2024	19/02/2024	Approved
+L010	WL8693	Wen Le	Annual leave	VACATION to Europe	06/03/2024	12/03/2024	Rejected
+L011	WL8693	Wen Le	Study leave	Training	01/03/2024	03/03/2024	Approved
+L012	J1467	James	Sick leave	demam	12/02/2024	14/02/2024	Pending
+L013	W5758	weddw	Sick leave	32123	31/21/3232	23/22/3323	Pending
