@@ -1,4 +1,4 @@
-# Leave Management System
+# Leave Management System 🗒️💻
 
 This repository contains a **Java-based Leave Management System** developed as part of Object-oriented Programming course. The system provides a graphical user interface for employees to apply for leave and for administrators to manage leave records.
 
