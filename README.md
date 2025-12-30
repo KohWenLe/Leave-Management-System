@@ -102,7 +102,9 @@ Use the following default admin credentials:
 ---
 
 Once logged in, the system will automatically load the appropriate interface based on the user role (Employee or Admin).
-<img width="570" height="610" alt="image" src="https://github.com/user-attachments/assets/1924a54d-d547-4f69-8fe4-01e38762ce41" />
+
+
+<img width="500" height="535" alt="image" src="https://github.com/user-attachments/assets/1924a54d-d547-4f69-8fe4-01e38762ce41" />
 
 
 Thank you for using the **BreakBuddy Leave Application System**.
